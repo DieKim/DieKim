@@ -21,6 +21,6 @@ I'm `Data` & `Dog` Lover💘
 
 <br>
 
-### **Contact Me 💌**
-* EMail:  <a href="coffeepizza41@gmail.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-* SNS: <a href="https://www.instagram.com/diediekim/"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
+### **If you want to cotact 💌**
+* EMail: <a href="coffeepizza41@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
+* SNS:  <a href="https://www.instagram.com/diediekim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>

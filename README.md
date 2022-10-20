@@ -8,7 +8,7 @@ I'm `Data` & `Dog` Lover💘
 ### **I'm interested in 👀**
 * ✨ Statistical Analysis
 * 🤖 Machine Learning
-* 😻 Recommendar System
+* 😻 Recommender System
 * 📊 Data Visualization
 
 <br>

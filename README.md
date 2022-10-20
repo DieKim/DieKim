@@ -1,7 +1,7 @@
 ### **Hi there 👋** 
 
 Hi? I'm Dahee Kim🤗 <br>
-I'm `Data` & `Dog` Lover💘
+I'm a `Data` & `Dog` Lover💘
 
 <br>
 

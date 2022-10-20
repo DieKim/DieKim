@@ -10,7 +10,6 @@ I'm a `Data` & `Dog` Lover💘
 * 🤖 Machine Learning
 * 😻 Recommender System
 * 📊 Data Visualization
-* etc.
 
 <br>
 
